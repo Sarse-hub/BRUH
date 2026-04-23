@@ -1,0 +1,29 @@
+if 5 > 2:
+  print("Five is greater than two!")
+
+
+
+  if 5 > 2:
+print("Five is greater than two!")
+
+
+
+
+if 5 > 2:
+ print("Five is greater than two!") 
+if 5 > 2:
+        print("Five is greater than two!") 
+
+
+
+if 5 > 2:
+ print("Five is greater than two!")
+        print("Five is greater than two!")
+ x = 1j
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
+
